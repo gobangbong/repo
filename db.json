@@ -2,31 +2,31 @@
 "tokens": [
 {
 "id": 0,
-"description": "자아의 자성적 성찰",
+"description": "자아의 자성적 자숙",
 "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
 "image": "https://static.wixstatic.com/media/a09cb2_6de030ab81404780b8eb3d9128f12a59~mv2.jpg",
-"name": "나의 위대한 NFT 0번"
+"name": "자아의 자성적 자숙"
 },
 {
 "id": 1,
 "description": "자아의 자전적 자괴",
 "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
 "image": "https://static.wixstatic.com/media/a09cb2_28455deb892745bf9f5fdb50a27aa692~mv2.jpg",
-"name": "나의 위대한 NFT 1번"
+"name": "자아의 자전적 자괴 (2)"
 },
 {
 "id": 2,
-"description": "자신의 자명한 자유",
+"description": "자아의 자명한 자유",
 "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
 "image": "https://static.wixstatic.com/media/a09cb2_80d1742f0b364e65b424e40e8989500d~mv2.jpg",
-"name": "너무나도 위대한 NFT 2번"
+"name": "자아의 자명한 자유 (3)"
 },
 {
 "id": 3,
-"description": "이지의 이지로운 이지",
+"description": "자아의 자발전 자존",
 "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-"image": "https://static.wixstatic.com/media/a09cb2_46c8c6f664fe41149af4f576797f620e~mv2.jpg",
-"name": "너무나도 위대한 NFT 3번"
+"image": "https://static.wixstatic.com/media/a09cb2_28c846b77103421b992aae64f7b9b217~mv2.png",
+"name": "자아의 자발적 자존 (4)"
 }
 ]
 }
