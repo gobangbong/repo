@@ -2,17 +2,17 @@
 "tokens": [
 {
 "id": 0,
-"description": "자아의 자성적 자숙",
-"external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-"image": "https://static.wixstatic.com/media/a09cb2_6de030ab81404780b8eb3d9128f12a59~mv2.jpg",
-"name": "자아의 자성적 자숙"
+"description": "NFT Contract",
+"external_url": "https://ipfs.globalupload.io/QmfP1hATYW1BJyWC7Zr2tR2Eh7TLyfSbg5CQhDskrLsmsw",
+"image": "https://static.wixstatic.com/media/a09cb2_1706247eac0947dbbdec38acfcb4b70e~mv2.jpg",
+"name": "NFT Contract"
 },
 {
 "id": 1,
-"description": "자아의 자전적 자괴",
-"external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-"image": "https://static.wixstatic.com/media/a09cb2_28455deb892745bf9f5fdb50a27aa692~mv2.jpg",
-"name": "자아의 자전적 자괴 (2)"
+"description": "NFT Certification",
+"external_url": "https://bridgeurl.com/llp-certification",
+"image": "https://static.wixstatic.com/media/a09cb2_0fb185718034481588be2fe88d54a361~mv2.png",
+"name": "NFT Certification"
 },
 {
 "id": 2,
