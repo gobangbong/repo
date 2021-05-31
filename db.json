@@ -3,30 +3,30 @@
 {
 "id": 0,
 "description": "NFT Contract",
-"external_url": "https://ipfs.globalupload.io/QmfP1hATYW1BJyWC7Zr2tR2Eh7TLyfSbg5CQhDskrLsmsw",
-"image": "https://static.wixstatic.com/media/a09cb2_1706247eac0947dbbdec38acfcb4b70e~mv2.jpg",
+"external_url": "https://bridgeurl.com/2-37",
+"image": "https://static.wixstatic.com/media/a09cb2_d98b50993bfc42ecaa457981494f1cfa~mv2.png",
 "name": "NFT Contract"
 },
 {
 "id": 1,
 "description": "NFT Certification",
-"external_url": "https://bridgeurl.com/llp-certification",
-"image": "https://static.wixstatic.com/media/a09cb2_0fb185718034481588be2fe88d54a361~mv2.png",
+"external_url": "https://ipfs.globalupload.io/Qmexq1WHZeRhKyEAAcNpwbyMc9ravPA7jtRhEEY7fsw3t1",
+"image": "https://static.wixstatic.com/media/a09cb2_d6f5538ccddd4bc48637dafb93694c78~mv2.png",
 "name": "NFT Certification"
 },
 {
 "id": 2,
-"description": "자아의 자명한 자유",
-"external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-"image": "https://static.wixstatic.com/media/a09cb2_80d1742f0b364e65b424e40e8989500d~mv2.jpg",
-"name": "자아의 자명한 자유 (3)"
+"description": "NFT Certification Copy 1",
+"external_url": "https://ipfs.globalupload.io/QmWF4dScGHVhvM2x5rchPc6HAQ8WpCCWkummr28HBz7D2Y",
+"image": "https://static.wixstatic.com/media/a09cb2_40f465a896c34d17ae04ff34ad1196ef~mv2.png",
+"name": "NFC Certificaiton Copy 1"
 },
 {
 "id": 3,
-"description": "자아의 자발전 자존",
-"external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-"image": "https://static.wixstatic.com/media/a09cb2_28c846b77103421b992aae64f7b9b217~mv2.png",
-"name": "자아의 자발적 자존 (4)"
+"description": "NFT Certification Copy 2",
+"external_url": "https://ipfs.globalupload.io/QmUN183kZWkTuFwf91GD3SXrQHbwaajyViZL4eHJm9AnYs",
+"image": "https://static.wixstatic.com/media/a09cb2_a7b46ee76079448fb29c4c5fe185dbb1~mv2.png",
+"name": "NFT Certificaiton Copy 3"
 }
 ]
 }
