@@ -38,8 +38,8 @@
 {
 "id": 5,
 "description": "부속합의서(2021-05-11)",
-"external_url": "http://chsoyangapt.com/bbs/view_image.php?fn=%2Fdata%2Feditor%2F2106%2F65d3d85783abc153921061580b812457_1622703251_2168.jpg",
-"image": "http://chsoyangapt.com/bbs/view_image.php?fn=%2Fdata%2Feditor%2F2106%2F65d3d85783abc153921061580b812457_1622703251_2168.jpg",
+"external_url": "http://chsoyangapt.com/data/editor/2007/56e3b65481bcd1c18304ef8744a011e6_1594863228_8573.jpg",
+"image": "http://chsoyangapt.com/data/editor/2007/56e3b65481bcd1c18304ef8744a011e6_1594863228_8573.jpg",
 "name": "부속합의서(2021-05-11)"
 },
 {
@@ -69,6 +69,20 @@
 "external_url": "http://chsoyangapt.com/data/editor/2011/63e7ce79b9f8f1295c7402186c77ef69_1606108225_5707.jpg",
 "image": "http://chsoyangapt.com/data/editor/2011/63e7ce79b9f8f1295c7402186c77ef69_1606108225_5707.jpg",
 "name": "정비사업용역관리계약서(2021-03-11)"
+},
+{
+"id": 10,
+"description": "공사도급계약서(2019-09-27)",
+"external_url": "http://chsoyangapt.com/data/editor/1908/36f57d6eb57c8facc35091f8bb844ce2_1565658898_4796.jpg",
+"image": "http://chsoyangapt.com/data/editor/1908/36f57d6eb57c8facc35091f8bb844ce2_1565658898_4796.jpg",
+"name": "정비사업용역관리계약서(2021-09-27)"
+ },
+ {
+"id": 11,
+"description": "무상양여용역계약서(2019-09-27)",
+"external_url": "http://chsoyangapt.com/data/editor/2102/thumb-9575ff57d9d7e8d3fef228d7749532a8_1614047516_7674_600x849.jpg",
+"image": "http://chsoyangapt.com/data/editor/2102/thumb-9575ff57d9d7e8d3fef228d7749532a8_1614047516_7674_600x849.jpg",
+"name": "무상양여용역계약서(2021-09-27)"
 }
 ]
 }
